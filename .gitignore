@@ -1,0 +1,72 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+battleship.sln
+.vs/battleship/v15/.suo
+.vs/battleship/v15/Browse.VC.db
+.vs/battleship/v15/Browse.VC.opendb
+.vs/battleship/v15/ipch/AutoPCH/BATTLESHIP-f3d4ff80/BATTLESHIP-86d44037/BATTLESHIP.ipch
+.vs/battleship/v15/ipch/AutoPCH/BATTLESHIP-f3d4ff80/BOARD-1b7493b4/BOARD.ipch
+.vs/battleship/v15/ipch/AutoPCH/BATTLESHIP-f3d4ff80/BOARD-cae8460f/BOARD.ipch
+.vs/battleship/v15/ipch/AutoPCH/BATTLESHIP-f3d4ff80/SHIPS-284e6b33/SHIPS.ipch
+.vs/battleship/v15/ipch/AutoPCH/BATTLESHIP-f3d4ff80/SHIPS-7595f94e/SHIPS.ipch
+.vs/battleship/v15/ipch/BATTLESHIP-f3d4ff80/BATTLESHIP-e223887c.ipch
+battleship/battleship.vcxproj
+battleship/battleship.vcxproj.filters
+battleship/Debug/battleship.log
+battleship/Debug/battleship.tlog/battleship.lastbuildstate
+battleship/Debug/battleship.tlog/CL.command.1.tlog
+battleship/Debug/battleship.tlog/CL.read.1.tlog
+battleship/Debug/battleship.tlog/CL.write.1.tlog
+battleship/Debug/battleship.tlog/link.command.1.tlog
+battleship/Debug/battleship.tlog/link.read.1.tlog
+battleship/Debug/battleship.tlog/link.write.1.tlog
+battleship/Debug/battleship.tlog/unsuccessfulbuild
+battleship/Debug/board.obj.enc
+battleship/Debug/vc141.idb
+battleship/Debug/vc141.pdb
+battleship/Release/battleship.log
+battleship/Release/battleship.tlog/battleship.lastbuildstate
+battleship/Release/battleship.tlog/battleship.write.1u.tlog
+battleship/Release/battleship.tlog/CL.command.1.tlog
+battleship/Release/battleship.tlog/CL.read.1.tlog
+battleship/Release/battleship.tlog/CL.write.1.tlog
+battleship/Release/battleship.tlog/link.command.1.tlog
+battleship/Release/battleship.tlog/link.read.1.tlog
+battleship/Release/battleship.tlog/link.write.1.tlog
+battleship/Release/vc141.pdb
+Release/battleship.pdb
+Release/battleship.ipdb
+Release/battleship.iobj
+README.md
+Debug/battleship.pdb
+Debug/battleship.ilk
